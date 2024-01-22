@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Johnson Ejeh, a python, C#, VB.net Java, Kotlin, JavaScript programmer
+- 👋 Hi, I’m Johnson Ejeh, a python, C#, VB.net, Java, Kotlin, JavaScript programmer
 - 👀 I’m interested in programming, music, basketball
 - 🌱 I’m currently building projects
 - 📫 How to reach me - ejehjohnson0gmail.com
